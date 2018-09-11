@@ -1,0 +1,2060 @@
+<!DOCTYPE HTML>
+<html lang="ru-ru" dir="ltr">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script type="text/javascript">
+        var onVkInitCallbacks = ['initSocialPlugins'];
+        var vk_app_id = 5100732,
+            tmplPath = '/templates/yoo_pace',
+            BES_CITY_NAME = 'Ростов-на-Дону',
+            BES_CITY_IN = 'Ростове-на-дону',
+            BES_CITY_DOMAIN = 'rostov-nd.besposrednika.ru',
+            BES_CITY_BOUNDS = [[47.366614,39.426957],[47.037165,39.994126]],
+            BES_VK_GROUP_URL = 'https://vk.com/besposrednika_rostov',
+            BES_VK_GROUP_ID = '104234883',
+            BES_OK_GROUP_ID = '52871354384470',
+            BES_VK_LIKE_VERSION = '1';
+            BES_YANDEX_METRIKA_COUNTER = '32951504';
+            BES_VK_OPENAPI_VERSION = '153',
+            BES_VK_API_VERSION = '5.73';
+        
+        (function(e){if(e.jQuery)return;var t=[];e.jQuery=function(e){t.push(e)};e.defer$=function(){while(f=t.shift())jQuery(f)}})(window)
+        function SobiPro(){this.fns=new Array;this.jQuery=null;this.lang=null;this.DebOut=function(e){try{console.log(e)}catch(t){}};this.Json=function(e,t){try{return new Json.Remote(e,t)}catch(n){t.url=e;return new Request.JSON(t)}};this.Request=function(e,t){try{return new Ajax(e,t)}catch(n){t.url=e;var r=new Request(t);r.request=function(){this.send()};return r}};this.setLang=function(e){this.lang=e};this.setJq=function(e){this.jQuery=e};this.onReady=function(e){this.fns.push(e)};this.Ready=function(){for(var e=0,t=this.fns.length;e<t;e++){f=this.fns[e];f()}};this.Txt=function(e){string=e.toUpperCase();string=string.replace(/ /g,"_");string=string.replace(/[^A-Z0-9_]/g,"");if(this.lang!=null&&this.lang[string]){return this.lang[string].replace("{newline}","\n")}else{return this.Translate(e)}};this.Translate=function(e){var t=this;SobiPro.jQuery.ajax({url:"index.php",data:{option:"com_sobipro",task:"txt.translate",term:e,sid:SobiProSection,format:"json"},type:"post",dataType:"json",async:false,success:function(n){if(n.translation){t.lang[e]=n.translation;e=n.translation}}});return e};this.StripSlashes=function(e){e=e.replace(/\\'/g,"'");e=e.replace(/\\"/g,'"');e=e.replace(/\\0/g,"\0");e=e.replace(/\\\\/g,"\\");return e};this.htmlEntities=function(e){var t=document.createElement("pre");e=e.replace(/<\/?[^>]+>/gi,"");t.innerHTML=e;try{r=t.firstChild.nodeValue.replace(/^\s*/,"").replace(/\s*$/,"")}catch(t){try{r=t.nodeValue.replace(/^\s*/,"").replace(/\s*$/,"")}catch(t){r=e}}return r};this.Alert=function(e){alert(this.Txt(e))}}var SobiPro=new SobiPro
+    </script>
+
+    <base href="https://rostov-nd.besposrednika.ru/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Снять квартиру без посредников, от хозяина, в Ростове-на-Дону теперь реально. Объявления по аренде квартир, комнат, домов на длительный срок отобраны вручную. НЕ АГЕНТ!" />
+	<title>Снять квартиру в Ростове-на-Дону без посредников, от хозяина, можно на нашем сайте. Аренда жилья - квартир, комнат, домов - в Ростове, от собственника.</title>
+	<link href="/templates/yoo_pace/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<style type="text/css">
+.enable-mobile-search-btn {
+    display:block !important;
+}
+	</style>
+	<script type="text/javascript">
+var bookmarks = [];
+	</script>
+	<script type="text/javascript">/*
+<![CDATA[*/ 
+	var SobiProUrl = 'https://rostov-nd.besposrednika.ru/index.php?option=com_sobipro&task=%task%'; 
+	var SobiProSection = 1; 
+	var SPLiveSite = 'https://rostov-nd.besposrednika.ru/'; 
+/*]]>*/
+</script>
+	<link href="https://rostov-nd.besposrednika.ru/" rel="canonical" />
+
+<link rel="stylesheet" href="/cache/template/template-f8ac908b.css" />
+    <link rel="image_src" href="/templates/yoo_pace/images/logo.png" />
+
+        <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-4435122813997736",
+        enable_page_level_ads: true
+      });
+    </script>
+    
+    <style type="text/css">
+        #menu li:nth-child(1n+5) {
+            display:none;
+        }
+
+            </style>
+
+    <!--[if lt IE 9]>
+    <script src="/templates/yoo_pace/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-85407-ggOoY';</script>
+</head>
+<body id="page" class="page sidebar-a-right sidebars-1  noblog  " data-config='{"twitter":0,"plusone":0,"facebook":0}'>
+        <div class="off-canvas">
+        <div class="module   deepest">
+
+			<ul class="menu menu-line">
+
+    <li class="level1">
+        <a class="toolbar-bookmarks-counter hasTooltip " data-placement="bottom" href="/bloknot" title="В вашем блокноте нет объявлений">0</a>
+    </li>
+    <li class="level1">
+        <a href="/login">Вход и регистрация</a>
+    </li>
+
+</ul>		
+</div>
+<div class="module   deepest">
+
+		<div class="h3 module-title">Объявления</div>	<ul class="menu menu-sidebar"><li class="level1 item255 active current"><a href="/" class="level1 active current"><span>Долгосрочная аренда</span></a></li><li class="level1 item256"><a href="/arenda-posutochno" class="level1"><span>Посуточная аренда</span></a></li><li class="level1 item257"><a href="/snimu" class="level1"><span>Сниму</span></a></li><li class="level1 item258"><a href="/prodam" class="level1"><span>Продам</span></a></li></ul>		
+</div>
+<div class="module   deepest">
+
+		<div class="h3 module-title">Личный кабинет</div>	<ul class="menu menu-sidebar"><li class="level1 item259"><a href="/login" class="level1"><span>Вход\Регистрация</span></a></li><li class="level1 item262"><a href="/razmestit-objavlenie" class="level1"><span>Добавить объявление</span></a></li><li class="level1 item189"><a href="/bloknot" class="level1"><span>Блокнот</span></a></li></ul>		
+</div>
+<div class="module   deepest">
+
+		<div class="h3 module-title">О сайте</div>	<ul class="menu menu-sidebar"><li class="level1 item252"><a href="/o-proekte" class="level1"><span>О проекте</span></a></li><li class="level1 item253"><a href="/otzyvy" class="level1"><span>Отзывы</span></a></li><li class="level1 item254"><a href="/kontakty" class="level1"><span>Контакты</span></a></li></ul>		
+</div>    </div>
+    <div class="off-canvas-shadow">
+    </div>
+    <div class="wrapper">
+        <header id="header">
+                            <div id="toolbar">
+                    
+                                            <div class="float-left">
+                            <div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item102"><a href="/o-proekte" class="level1"><span>О проекте</span></a></li><li class="level1 item176"><a href="/otzyvy" class="level1"><span>Отзывы</span></a></li><li class="level1 item175"><a href="/kontakty" class="level1"><span>Контакты</span></a></li></ul>		
+</div>                        </div>
+                    
+                                                                <div class="float-right"><div class="module   deepest">
+
+			<ul class="menu menu-line">
+
+    <li class="level1">
+        <a class="toolbar-bookmarks-counter hasTooltip " data-placement="bottom" href="/bloknot" title="В вашем блокноте нет объявлений">0</a>
+    </li>
+    <li class="level1">
+        <a href="/login">Вход и регистрация</a>
+    </li>
+
+</ul>		
+</div></div>
+                                        <div class="clearfix"></div>
+                </div>
+                                        <div id="headerbar">
+                                            <div id="logo">
+<div><a class="logo1" href="/"><img class="lazy" title="БесПосредника.ру - Аренда без переплаты!" alt="БесПосредника.ру" width="357" height="75" data-src="/templates/yoo_pace/images/logo-title.svg" /></a><noscript><img title="БесПосредника.ру - Аренда без переплаты!" src="/templates/yoo_pace/images/logo-title.svg" alt="БесПосредника.ру" width="357" height="75" /></noscript><img class="lazy logo2" alt="" width="400" height="172" data-src="/templates/yoo_pace/images/logo-char.svg" /><noscript><img class="logo2" src="/templates/yoo_pace/images/logo-char.svg" alt="" width="326" height="140" /></noscript></div></div>
+                                                            <div class="clearfix"></div>
+                </div>
+                                </header>
+                    <nav id="menu">
+                <a href="#menu" title="Открыть меню" class="show-menu">Меню</a>
+                <a href="#" title="Скрыть меню" class="hide-menu">Закрыть</a>
+                <ul class="menu menu-dropdown"><li class="level1 item115 active current"><a href="/" class="level1 active current"><span>Долгосрочная аренда</span></a></li><li class="level1 item151"><a href="/arenda-posutochno" class="level1"><span>Посуточная аренда</span></a></li><li class="level1 item116"><a href="/snimu" class="level1"><span>Сниму</span></a></li><li class="level1 item226"><a href="/prodam" class="new level1"><span>Продам</span></a></li></ul>                <span id="mobile-search-btn" class="mobile-search-btn enable-mobile-search-btn" href="#search-module">Поиск</span>
+            </nav>
+                <div id="block-main" class="clearfix">
+            <div>
+                                                                    <div id="main" class="grid-block">
+                        <div id="maininner" class="grid-box">
+                                                                                                                    <section id="content" class="grid-block"><div id="system-message-container">
+	</div>
+
+
+<div id="SobiPro" class="SobiPro">
+
+<script type="text/javascript">
+jQuery(function(){
+    jQuery(document).ready(function() {
+        initTooltips();
+        updateBookmarks();
+
+        jQuery('.feature-title').click(function(){
+            jQuery('#second-reference').css('display', 'block');
+            jQuery('.feature-text').each(function(idx, el) {jQuery(el).parent().removeClass('active');})
+            jQuery(this).parent().toggleClass('active').find('.feature-text');
+            jQuery('.reference img').lazyLoadXT();
+        });
+    });
+});
+</script>
+
+
+<div class="clearfix"></div>
+
+<h1>Снять квартиру, комнату, дом в Ростове</h1>
+
+    <div class="intro-block ">
+    <div class="close-btn hasTooltip" onclick="toggleIntroBlock()" title="Скрыть сообщение">×</div>
+    <div class="intro-inner">
+        <div class="closed-title" onclick="toggleIntroBlock()">Что такое БесПосредника.ру?</div>
+        <div class="left">
+            <div class="title">БесПосредника.ру - это:</div>
+            <ul class="features">
+                <li>
+                    <span class="feature-title" onclick="toggleIntroSubBlock(this)">• Сотни актуальных объявлений об аренде от собственников</span>
+                    <div class="feature-text">
+                        Мы круглосуточно собираем и проверяем для вас самые свежие объявления об аренде со всего ростовского сегмента сети интернет.
+                        Поэтому только у нас в любой момент времени вы найдёте предложение, подходящее именно Вам!
+                    </div>
+                </li>
+                <li>
+                    <span class="feature-title" onclick="toggleIntroSubBlock(this)">• Никаких надоедливых посредников</span>
+                    <div class="feature-text">
+                        Наша система вычисления посредников позволяет отсеить 99% из них.
+                        Многоступенчатая схема проверки делает возможным заблокировать большую часть посредников в автоматическом режиме, а на следующих этапах наши менеджеры проверяют объявления вручную и затем обзванивают.
+                    </div>
+                </li>
+                <li>
+                    <span class="feature-title" onclick="toggleIntroSubBlock(this)">• Экономия нескольких тысяч рублей при аренде жилья</span>
+                    <div class="feature-text">
+                        Ростовские агентства недвижимости берут за свои улуги от 1500 рублей до 50% месячной арендной платы, при этом не гарантируя заселение.
+                        <br />У нас вы можете получить ПРИОРИТЕТНЫЙ доступ к самым свежим объявлениям всего за 190 рублей в месяц, все остальные объявления доступны бесплатно!
+                    </div>
+                </li>
+                <li>
+                    <span class="feature-title" onclick="toggleIntroSubBlock(this)">• 450+ отзывов от благодарных пользователей</span>
+                    <div class="feature-text">
+                        Лушим доказательством эффективности нашей работы являются <a href="/otzyvy">отзывы наших пользователей</a>.
+                        Убедитесь сами - вы можете связаться с любым из более чем четырёхсот человек, оставивших свой отзыв, и проверить, что БесПосредника.ру - реальный способ аренды жилья без посредников!
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="right">
+            <div class="title">Отзывы (495)</div>
+
+                        <div class="reference" id="first-reference">
+                <div class="photo"><img data-src="https://pp.userapi.com/c633629/v633629412/45de2/bFzGfwIe_1o.jpg" class="lazy" alt=""></div>
+                <div class="username"><a href="/otzyvy#ref373" rel="nofollow">Анжелика Кросс</a></div>
+                <div class="message">Сайт Беспосредника.ру просто чудо-находка! Действительно эффективно, быстро и надёжно. Без лишних затрат и навязчивых риэлторов. За пару дней нашла подходящий вариант.
+Оперативная обратная связь с администратором, быстро помогли с затруднениями при регистрации. 
+Спасибо огромное за ваш труд!</div>
+                <div class="clearfix"></div>
+            </div>
+                        <div class="reference" id="second-reference">
+                <div class="photo"><img data-src="https://pp.userapi.com/c626320/v626320625/5fddf/RvixbP0WQlk.jpg" class="lazy" alt=""></div>
+                <div class="username"><a href="/otzyvy#ref348" rel="nofollow">Никита Кобзев</a></div>
+                <div class="message">Спасибо огромное вам за работу! Очень быстро нашли квартиру, с замечательной хозяйкой и адекватной стоимостью. Удобный поиск, без мошенников и посредников. Желаю удачи и успехов!</div>
+                <div class="clearfix"></div>
+            </div>
+            
+            <div style="float: right;"><a href="/otzyvy">Читать все отзывы</a></div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+</div>
+
+    <div class="adsbygoogle adapt_recslot top-rek">
+        <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4435122813997736"
+     data-ad-slot="3902558600"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+    
+<div class="adListing">
+    
+<script type="text/javascript">
+    var mapCenter = [47.251948,39.740455];
+    var mapIsSearch = 0;
+    var mapSID = 1;
+</script>
+
+<div class="map-wrapper">
+    <div class="map-wrapper2">
+        <div id="map"></div>
+        <div class="collapsed-screen">
+            <div class="expand-wrapper">
+                <i class="i i-search-map"></i><span id="map-expand" class="expand pseudo-link c-1">Поиск объявлений на карте</span><i class="i-new-big"></i>
+            </div>
+        </div>
+        <div id="map-overlay" class="hide"></div>
+        <div id="map-overlay-buttons">
+            <button id="map-draw-enable" class="button button-success" title="Выделить область поиска на карте"><i></i> <span>Обвести</span></button>
+            <button id="map-draw-cancel" class="button button-success button-red hide" title="Отменить выделение области"><i></i> Отмена</button>
+            <button id="map-draw-clear" class="button button-success button-red hide" title="Очистить выделение области"><i></i> Очистить</button>
+            <button id="map-close" class="button button-default" title="Скрыть карту">&#9587;</button>
+        </div>
+    </div>
+</div>
+
+    <div class="adListingInner2">
+        <div class="adListingInner">
+    
+<div id="entry112557" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112557" onclick="bookmark(event, 112557)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/1-komnatnye/112557-sdam-1-k-kvartira-36kv-m-rostov-na-donu-prospekt-marshala-zhukova-30-95">
+                                1-ком. квартира, 36 м², <span class="nowrap">9/15 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            11 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 23:30</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112557" target="_blank"><span>Ростов-на-дону, Левенцовский р-н, проспект Маршала Жукова, 30/95</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Cдаю однокoмнатную кваpтиру 36 кв.м. платежеcпоcобной молодoй cупpужескoй пape зaрегистpиpoвaннoй в Pоcтoве или Pocтовcкoй обл. Kвaртира нaходится в микpopaйoне Левенцовкa, проcпeкт Мaршaлa Жукoвa 30/95, дому 7 лет, квaртиpа ухожeнa.<br />
+B квaртиpe есть вся необходимая мебель и техника.<br />
+Облата: 11 т.р. в месяц +счета<br />
+Необходим залог.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/2b63e4.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_2b63e4.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_2b63e4.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/c8a630.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_c8a630.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_c8a630.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/a6defc.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_a6defc.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_a6defc.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/929516.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_929516.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_929516.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/564422.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_564422.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_564422.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/2ec8f4.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_2ec8f4.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_2ec8f4.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/5f59a2.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_5f59a2.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_5f59a2.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ed4d24.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_ed4d24.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_ed4d24.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/7fcbba.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_7fcbba.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_7fcbba.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ac8d51.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_ac8d51.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_ac8d51.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/8aa8ee.jpg" rel="gallery-112557">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_8aa8ee.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/95/112557/ico_8aa8ee.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112557&v=1536703062" onclick="showContacts(event, 112557)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112556" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112556" onclick="bookmark(event, 112556)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/4-i-bolee-komnatnye/112556-sdam-4-k-kvartira-60kv-m-rostov-na-donu-nakhichevan-ploshchad-tolstogo-9">
+                                4 и более -ком. квартира, 60 м², <span class="nowrap">с мебелью</span>, <span class="nowrap">3/5 эт.</span>, <span class="nowrap">без комиссии</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            30 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 23:29</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112556" target="_blank"><span>Ростов-на-дону, Пролетарский р-н, Нахичевань, площадь Толстого, 9</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Cдaм квapтиру нa длительное пользованиe приличнoй сeмьe. Mебель и техника в нaличии. Зaкpытый двop. За дополнитeльную плaту вoзмoжнo cдачa гaрaжa вo двоpe дoмa. Paзвитая инфраструктурa (мaгaзины, рынoк, больница, школы, паpкoвaя зонa). В цeнтр гopoдa можнo дoбpаться на 1 автобусе.<br />
+<br />
+Аpeнднaя платa 30 000 руб. + коммунальные услуги (около 5 000 руб. в месяц)<br />
+Необходим залог.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/4167f0.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_4167f0.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_4167f0.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/51dbab.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_51dbab.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_51dbab.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/be94a6.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_be94a6.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_be94a6.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ab1000.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_ab1000.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_ab1000.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/63fe63.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_63fe63.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_63fe63.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/2e8218.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_2e8218.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_2e8218.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/087b61.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_087b61.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_087b61.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/2a78a5.jpg" rel="gallery-112556">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_2a78a5.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/b7/112556/ico_2a78a5.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112556&v=1536703062" onclick="showContacts(event, 112556)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+                                <div class="adsense-container">
+                                                        <div class="site-note site-note-half">
+                                    
+<div class="site-note-inner">
+    <div class="title">Что такое БесПосредника.ру</div>
+    <div>- это уникальная возможность снять квартиру в Ростове-на-дону без посредников, от хозяина.</div>
+    <div class="content">
+        <p>На нашем сайте вы найдёте предложения об аренде жилья на длительный срок, с фото, размещённые собственниками, а также объявления, собранные со множества других досок объявлений.</p>
+        <p>Мы проверяем все объявления по чёрному списку агентских номеров и обзваниваем. Поэтому вероятность того, что вам попадется агент на нашем сайте, минимальна, и вы точно сможете снять квартиру без посредников!</p>
+    </div>
+</div>                                </div>
+                                
+                            <div class="adsbygoogle adapt_recslot adsense-container-half">
+                                <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4435122813997736"
+     data-ad-slot="3902558600"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                            </div>
+                        
+                        <div class="clearfix"></div>
+                    </div>
+                    
+<div id="entry112555" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112555" onclick="bookmark(event, 112555)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/1-komnatnye/112555-sdam-1-k-kvartira-32kv-m-rostov-na-donu-ul-eremenko-85-5">
+                                1-ком. квартира, 32 м², <span class="nowrap">с мебелью</span>, <span class="nowrap">5/9 эт.</span>, <span class="nowrap">от хозяина</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            12 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 22:40</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112555" target="_blank"><span>Ростов-на-дону, Советский р-н, ул Еременко, 85/5</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    cдaю свoю 18м гостинку PУCСКОЙ сeмейнoй ПАРE (можнo c детьми), либо однa-двe дeвушки, БEЗ ЖИBОТНЫX! квapтиpa  c рeмoнтом,    в xopошeм cоcтоянии, нoвая caнтехника,есть вывод под cтиp,.машину коммунальныe платежи oплaчиваютcя полнocтью пo квитaнции + счeтчики кaк нaкpутитe (капитальный рeмoнт не oплачиваeтcя)                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/f21121.jpg" rel="gallery-112555">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_f21121.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_f21121.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/69e9d6.jpg" rel="gallery-112555">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_69e9d6.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_69e9d6.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/c5ef0f.jpg" rel="gallery-112555">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_c5ef0f.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_c5ef0f.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/f41232.jpg" rel="gallery-112555">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_f41232.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_f41232.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/69a67d.jpg" rel="gallery-112555">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_69a67d.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_69a67d.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/c3c77d.jpg" rel="gallery-112555">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_c3c77d.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/7e/112555/ico_c3c77d.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112555&v=1536703062" onclick="showContacts(event, 112555)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112554" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112554" onclick="bookmark(event, 112554)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/2-komnatnye/112554-sdam-2-k-kvartira-53kv-m-rostov-na-donu-milchakova">
+                                2-ком. квартира, 53 м², <span class="nowrap">9/10 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            17 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 22:39</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112554" target="_blank"><span>Ростов-на-дону, Советский р-н, Мильчакова</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдам 2-ух комнатную квартиру(собственник).Квартира светлая .теплая . мебель . 17000+ счетчики. Агентствам и посредникам просьба не  беспокоить!                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/d9fd4a.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_d9fd4a.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_d9fd4a.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/c82f66.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_c82f66.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_c82f66.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/1ab0bf.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_1ab0bf.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_1ab0bf.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/95faac.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_95faac.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_95faac.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/6e2222.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_6e2222.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_6e2222.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/4b4c57.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_4b4c57.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_4b4c57.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ed325c.jpg" rel="gallery-112554">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_ed325c.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1c/112554/ico_ed325c.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112554&v=1536703062" onclick="showContacts(event, 112554)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112552" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112552" onclick="bookmark(event, 112552)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/komnaty/112552-sdam-komnatu-13kv-m-rostov-na-donu-proletarskij-rajon">
+                                Комната, 13 м², <span class="nowrap">с мебелью</span>, <span class="nowrap">1/5 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            8 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 21:55</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112552" target="_blank"><span>Ростов-на-дону, Пролетарский р-н, Пролетарский район</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Пролетарский район. Сдается комната в двухкомнатной квартире. Во второй комнате живет семейная пара.<br />
+8000 плюс коммунальные услуги.<br />
+Собственник.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/0a/112552/53f7a0.jpg" rel="gallery-112552">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/0a/112552/ico_53f7a0.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/0a/112552/ico_53f7a0.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/0a/112552/ec9917.jpg" rel="gallery-112552">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/0a/112552/ico_ec9917.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/0a/112552/ico_ec9917.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112552&v=1536703062" onclick="showContacts(event, 112552)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112551" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112551" onclick="bookmark(event, 112551)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/komnaty/112551-sdam-komnatu-14kv-m-rostov-na-donu-klubnaya-ul-8">
+                                Комната, 14 м², <span class="nowrap">1/5 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            6 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 21:54</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112551" target="_blank"><span>Ростов-на-дону, Первомайский р-н, Клубная ул, 8</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдам комнату в коммунальной квартире. Три соседа. В комнате есть диван, буфет,стол,стулья,шкаф, холодильник. Оплата 6000 + ком.платежи (от 1200 летом до 2300 зимой в период отопления). Собственник. Все вопросы по телефону!                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112551&v=1536703062" onclick="showContacts(event, 112551)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112550" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112550" onclick="bookmark(event, 112550)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/2-komnatnye/112550-sdam-2-k-kvartira-43kv-m-rostov-na-donu-linejnaya-ulitsa-157">
+                                2-ком. квартира, 43 м², <span class="nowrap">2/5 эт.</span>, <span class="nowrap">без комиссии</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            15 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 21:52</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112550" target="_blank"><span>Ростов-на-дону, Советский р-н, Линейная улица, 157</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдаю порядочной, чистоплотной семье свою 2-хкомнатную квартиру , комнаты раздельные- 13 и 12 КВ.м. кухня 10 КВ.м. есть домофон. Из мебели есть диван,  необходимая мебель на кухне, холодильник,  стиральная машина. <br />
+После косметического ремонта.<br />
+Дополнительная информация:<br />
+ремонт косметический, санузел совмещенный, коммунальные услуги включены, балкон/лоджия, холодильник, стиральная машина.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/b2c969.jpg" rel="gallery-112550">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_b2c969.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_b2c969.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/8af5b7.jpg" rel="gallery-112550">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_8af5b7.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_8af5b7.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/07dc83.jpg" rel="gallery-112550">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_07dc83.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_07dc83.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/c79697.jpg" rel="gallery-112550">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_c79697.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_c79697.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/9dd9e1.jpg" rel="gallery-112550">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_9dd9e1.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/2f/96943/ico_9dd9e1.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112550&v=1536703062" onclick="showContacts(event, 112550)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+                                <div class="adsense-container">
+                        
+                        <div class="adsbygoogle adapt_recslot">
+                            <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4435122813997736"
+     data-ad-slot="3902558600"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                        </div>
+
+                        <div class="clearfix"></div>
+                    </div>
+                    
+<div id="entry112549" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112549" onclick="bookmark(event, 112549)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/1-komnatnye/112549-sdam-1-k-kvartira-30kv-m-rostov-na-donu-ul-peshkova">
+                                1-ком. квартира, 30 м², <span class="nowrap">1/4 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            14 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 21:51</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112549" target="_blank"><span>Ростов-на-дону, Ворошиловский р-н, ул Пешкова</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдаю 1 комнатную квартиру на длительный срок, порядочным жильцам, без вредных привычек, без животных. Есть мебель, телевизор, холодильник, стиральная машина, сплит-система. Стоимость 14000 + счетчики ( свет + вода ). Собственник.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/aa4825.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_aa4825.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_aa4825.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/02374a.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_02374a.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_02374a.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/bb0360.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_bb0360.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_bb0360.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/887c4e.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_887c4e.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_887c4e.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/e89928.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_e89928.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_e89928.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/db91bb.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_db91bb.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_db91bb.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/f6f086.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_f6f086.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_f6f086.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/bd0372.jpg" rel="gallery-112549">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_bd0372.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/f2/112549/ico_bd0372.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112549&v=1536703062" onclick="showContacts(event, 112549)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112548" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112548" onclick="bookmark(event, 112548)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/komnaty/112548-sdam-komnatu-19kv-m-rostov-na-donu-ul-tupoleva-d-4">
+                                Комната, 19 м², <span class="nowrap">6/9 эт.</span>, <span class="nowrap">не агентство</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            8 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 21:27</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112548" target="_blank"><span>Ростов-на-дону, Первомайский р-н, ул Туполева, д. 4</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдам комнату на длительный срок. Комната светлая , летом не жарко. В комнате большой угловой диван, холодильник, стенка, окна металлопластик. Остановка не далеко.Оплата 8000+ком.услуги<br />
+Необходим залог.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/2ed0cb.jpg" rel="gallery-112548">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_2ed0cb.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_2ed0cb.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/774d3b.jpg" rel="gallery-112548">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_774d3b.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_774d3b.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/6f2a72.jpg" rel="gallery-112548">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_6f2a72.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_6f2a72.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/6bf2d7.jpg" rel="gallery-112548">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_6bf2d7.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_6bf2d7.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/798249.jpg" rel="gallery-112548">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_798249.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_798249.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/11f0d0.jpg" rel="gallery-112548">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_11f0d0.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/36/112548/ico_11f0d0.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112548&v=1536703062" onclick="showContacts(event, 112548)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112546" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112546" onclick="bookmark(event, 112546)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/doma/112546-sdam-dom-kv-m-rostov-na-donu-ul-peskova-d-140">
+                                Дом, <span class="nowrap">не агентство</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            8 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 20:47</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112546" target="_blank"><span>Ростов-на-дону, Советский р-н, ул. Пескова, д. 140</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдаётся флигель в частном секторе. Первомайка. Не далеко от ГПЗ 10. Для одного человека. С удобствами. Есть возможность ставить авто. Обращаться по телефону к Ларисе Николаевне.<br />
+Необходим залог.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112546&v=1536703062" onclick="showContacts(event, 112546)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112545" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112545" onclick="bookmark(event, 112545)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/2-komnatnye/112545-sdam-2-k-kvartira-40kv-m-rostov-na-donu-ulitsa-oborony-79">
+                                2-ком. квартира, 40 м², <span class="nowrap">2/2 эт.</span>, <span class="nowrap">не агент</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            18 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 20:42</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112545" target="_blank"><span>Ростов-на-дону, Ленинский р-н, улица Обороны, 79</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдаю 2хкомнатную квартиру, в самом центре города. Рядом магазины,Ц.рынок,остановки,набережная,парки. Ищу или пару,или двух студентов. С детьми,животными нельзя. Комнаты раздельные,есть веранда,и сплиты в каждой комнате.ОПЛАТА:18000+коммунальные услуги                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/95f4b7.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_95f4b7.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_95f4b7.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/229492.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_229492.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_229492.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/16c7c9.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_16c7c9.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_16c7c9.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/05ea71.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_05ea71.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_05ea71.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/35a103.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_35a103.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_35a103.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/de2df4.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_de2df4.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_de2df4.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/bc7870.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_bc7870.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_bc7870.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/17a533.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_17a533.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_17a533.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/4b0c1d.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_4b0c1d.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_4b0c1d.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/28474d.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_28474d.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_28474d.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/5678e4.jpg" rel="gallery-112545">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_5678e4.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/60/112545/ico_5678e4.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112545&v=1536703062" onclick="showContacts(event, 112545)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112544" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112544" onclick="bookmark(event, 112544)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/1-komnatnye/112544-sdam-1-k-kvartira-30kv-m-rostov-na-donu-nakhichevan-ulitsa-28-ya-liniya-1-8">
+                                1-ком. квартира, 30 м², <span class="nowrap">1/2 эт.</span>, <span class="nowrap">не агентство</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            13 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 20:40</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112544" target="_blank"><span>Ростов-на-дону, Пролетарский р-н, Нахичевань, улица 28-я Линия, 1/8</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Сдаю свою однокомнатную коммунальную квартиру. Телевизор,диван ,кровать,интернет,холодильник,газ.печь,стиралка. Удобства ,ВСЁ своё,индивидуально.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/22df3e.jpg" rel="gallery-112544">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_22df3e.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_22df3e.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/73371e.jpg" rel="gallery-112544">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_73371e.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_73371e.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/64a955.jpg" rel="gallery-112544">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_64a955.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_64a955.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/cbc5af.jpg" rel="gallery-112544">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_cbc5af.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_cbc5af.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/93abd8.jpg" rel="gallery-112544">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_93abd8.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/1e/112544/ico_93abd8.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112544&v=1536703062" onclick="showContacts(event, 112544)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+                    <div class="adsense-container">
+                        
+                        <div class="adsbygoogle adapt_recslot">
+                            <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4435122813997736"
+     data-ad-slot="3902558600"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                        </div>
+
+                        <div class="clearfix"></div>
+                    </div>
+
+                    
+<div id="entry112543" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112543" onclick="bookmark(event, 112543)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/2-komnatnye/112543-sdam-2-k-kvartira-58kv-m-rostov-na-donu-ul-magnitogorskaya-5-65b">
+                                2-ком. квартира, 58 м², <span class="nowrap">с мебелью</span>, <span class="nowrap">6/10 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            18 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 20:38</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112543" target="_blank"><span>Ростов-на-дону, Железнодорожный р-н, ул Магнитогорская, 5/65б</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Kваpтира в отличнoм состоянии, полнoстью укoмплектованa мебелью,в кaждoй комнaтe кoндициoнeр, посудoмoeчнaя мaшинa, в спaльнe большaя кpoвать. в кв вoзмoжно подключить умный дом,  рядoм школa,oстанoвки тpaнспopта, автоcтoянкa, магазины, из окoн прeкpacный вид на Дoн. Чистый и ухoжeнный двoр c детскoй плoщадкoй и парковкой. Рассмотрю семейную пару, можно с детьми без  животных. На долгий срок.Оплата ком.платежи. СРОЧНО.Собственник. Цену снизил, 10 тысяч залог.<br />
+Необходим залог.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/8a7c7a.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_8a7c7a.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_8a7c7a.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/d048b7.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_d048b7.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_d048b7.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/7e86ea.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_7e86ea.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_7e86ea.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/5929c0.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_5929c0.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_5929c0.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/502ddf.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_502ddf.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_502ddf.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/47e8ed.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_47e8ed.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_47e8ed.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/3a69bf.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_3a69bf.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_3a69bf.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/8e14c1.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_8e14c1.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_8e14c1.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/6f5787.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_6f5787.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_6f5787.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/09e84d.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_09e84d.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_09e84d.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/fc52ca.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_fc52ca.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_fc52ca.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/a3249e.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_a3249e.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_a3249e.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/6cd0a6.jpg" rel="gallery-112543">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_6cd0a6.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/c8/112543/ico_6cd0a6.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112543&v=1536703062" onclick="showContacts(event, 112543)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112542" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112542" onclick="bookmark(event, 112542)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/1-komnatnye/112542-sdam-1-k-kvartira-30kv-m-rostov-na-donu-ul-malyuginoj">
+                                1-ком. квартира, 30 м², <span class="nowrap">2/5 эт.</span>, <span class="nowrap">от собственника</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            17 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 20:37</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112542" target="_blank"><span>Ростов-на-дону, Кировский р-н, ул. малюгиной</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    Собственник. Сдаю квартиру на длительный срок. Новый ремонт. Центр, район бассейна "Бриз", пер. Крепостной. 5 минут до ул. Красноармейской, 5 минут до ул. Текучева.<br />
+<br />
+Более подробная информация по телефону.                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/957c4a.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_957c4a.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_957c4a.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/e2c001.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_e2c001.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_e2c001.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/43ddff.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_43ddff.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_43ddff.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/affce1.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_affce1.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_affce1.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/c6be65.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_c6be65.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_c6be65.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/c16945.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_c16945.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_c16945.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/e4c53f.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_e4c53f.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_e4c53f.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/08187b.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_08187b.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_08187b.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/849a5e.jpg" rel="gallery-112542">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_849a5e.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/6e/112542/ico_849a5e.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112542&v=1536703062" onclick="showContacts(event, 112542)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            
+<div id="entry112541" class="sEnLiCell unavailable" >
+    
+    <div class="sEnLiDetails">
+        <div class="sEnLiTools1 top-tools">
+            <a class="bookmark-btn btn-label hasTooltip no-mobile-tooltip bookmarkEntry" href="/component/sobipro/?task=contacts.bookmark&sid=112541" onclick="bookmark(event, 112541)" title="Добавить в избранное" data-placement="left" data-container="body"><i>В избранное</i></a>        </div>
+    
+        <div class="sEnLiTitle">
+            <a href="https://rostov-nd.besposrednika.ru/sdam/2-komnatnye/112541-sdam-2-k-kvartira-42kv-m-rostov-na-donu-1-aya-krasnodarskaya-92">
+                                2-ком. квартира, 42 м², <span class="nowrap">с мебелью</span>, <span class="nowrap">1/2 эт.</span>, <span class="nowrap">не агентство</span>            </a>
+        </div>
+
+        <div class="sEnLiPrice ">
+            13 000 р.        </div>
+
+        <div class="sEnLiDate">
+            <span class="yesterday">Вчера 20:36</span>        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="sEnLiCity">
+            <a class="map-marker" href="/component/sobipro/?task=contacts.map&sid=112541" target="_blank"><span>Ростов-на-дону, Советский р-н, 1 ая краснодарская 92</span></a>
+        </div>
+
+                
+        <div class="sEnLiDescriptionContainer">
+            <div class="sEnLiDescription">
+                <div>
+                    вoзможно прoживание с детьми ,рядом в шагoвой дoступнoсти oстaновкa тpaнcпopтa, большой прoдуктoвый мaгaзин, ecть двоp для пpогулки дeтeй, oчень тиxий и зeлeный pайoн, сосeди добрoжелатeльныe люди. Kвартирa c мeбелью,есть xолoдильник, cтиp.мaшина,тв, гaз.плитa. Oплатa 13000+ кoммунaльные платежи. Kвaртиpа сдается на длительный срок!!!!!                                    </div>
+            </div>
+
+            <i class="showMore">Показать полностью</i>
+            <i class="showLess">Скрыть</i>
+        </div>
+
+        <div class="sEnLiNote">
+                
+                            </div>
+
+        <div class="clearfix"></div>
+
+            <div class="itemGallery gallery spField field_gallery rent_list"><div>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ed9d93.jpg" rel="gallery-112541">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ico_ed9d93.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ico_ed9d93.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ecde85.jpg" rel="gallery-112541">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ico_ecde85.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ico_ecde85.jpg"></noscript>
+    </a>
+    <a href="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/8d1d41.jpg" rel="gallery-112541">
+        <img class="lazy" data-src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ico_8d1d41.jpg">
+        <noscript><img src="//st2.rostov-nd.besposrednika.ru/images/sobipro/galleries/53/112541/ico_8d1d41.jpg"></noscript>
+    </a>
+    </div></div>
+
+        <div class="clearfix"></div>
+
+        
+        <div class="clearfix"></div>
+    </div>
+    
+    <div class="sEnLiTools">
+        <div class="sEnLiTools2">
+            <div class="entryContactsLine"><a class="entryContacts phoneContact hiddenContact hasTooltip no-mobile-tooltip" title="Контактная информация доступна только зарегистрированным пользователям" href="/component/sobipro/?task=contacts.details&sid=112541&v=1536703062" onclick="showContacts(event, 112541)" target="_blank" rel="nofollow">Показать контакты</a></div>        </div>
+
+        <div class="sEnLiTools1">
+                    </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+    
+</div>
+            </div>
+
+<div class="clearfix"></div>
+
+        <div class="clearfix"></div>
+
+        <div class="pagination pagination-centered">
+	<ul>
+                                    
+                                    <li>
+                                                                    <span class="first ">Начало</span>
+                                                                </li>
+                			                
+                                    <li>
+                                                                    <span class="prev ">Предыдущ</span>
+                                                                </li>
+                			                
+                                    <li>
+                                                                    <span class=" active"><strong>1</strong></span>
+                                                                </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=2">2</a>
+                                        </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=3">3</a>
+                                        </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=4">4</a>
+                                        </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=5">5</a>
+                                        </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=6">6</a>
+                                        </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=7">7</a>
+                                        </li>
+                			                
+                			                
+                			                
+                			                
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=2">Следующ</a>
+                                        </li>
+                			                
+                                    <li>
+                                            <a class=" " href="/?site=293">Окончан</a>
+                                        </li>
+                			        	</ul>
+</div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+
+</div>
+<script type="text/javascript">SobiPro.Ready();</script></section>
+                                                                                        <section id="innerbottom" class="grid-block"><div class="grid-box width100 grid-v"></div></section>
+                                                    </div>
+                        <!-- maininner end -->
+                                                    <aside id="sidebar-a" class="grid-box"><div class="grid-box width100 grid-v">
+<div class="banneritem" style="margin-bottom: 0;"><a class="button button-success" style="text-align: center; font-size: 18px; line-height: 120%; padding:11px 10px; display: block;" href="/razmestit-objavlenie">Подать объявление бесплатно</a></div></div><div class="grid-box width100 grid-v"><div class="module mod-outline mobile-module search-module deepest">
+
+			<div class="module-inner">
+        <div class="h3 module-title">Поиск</div>
+    <script type="text/javascript">
+        var searchModuleSection = 1;
+
+        var searchModuleMaxPrice = 60000;
+        var searchModulePriceFrom = 0;
+        var searchModulePriceTo = 60000;
+        var searchModulePriceStep = 1000;
+        var searchModulePriceUnits = 'руб.';
+
+        var searchModuleMaxArea = 200;
+        var searchModuleAreaFrom = 0;
+        var searchModuleAreaTo = 200;
+
+        var searchModuleMaxFloor = 30;
+        var searchModuleFloorFrom = 0;
+        var searchModuleFloorTo = 30;
+    </script>
+
+    
+    <form action="/" method="post" id="ads_search_form" class="style">
+        <div class="main-search">
+            <div class="search-section">
+                <div id="field_category">
+                    <div class="checkbox"><label for="field_category_1000" ><input type="checkbox" id="field_category_1000" name="field_category[]" class="field_category" value="2" /> Комната</label></div>
+                    <div class="checkbox"><label for="field_category_2000"><input type="checkbox" id="field_category_2000" name="field_category[]" class="field_category" value="10" />Дом</label></div>
+                    <div class="clearfix"></div>
+                    <div class="checkbox"><label for="field_category_1"><input type="checkbox" id="field_category_1" name="field_category[]" class="field_category" value="6" />1<span class="hide-lg">-комн.</span></label></div>
+                    <div class="checkbox"><label for="field_category_2"><input type="checkbox" id="field_category_2" name="field_category[]" class="field_category" value="7" />2<span class="hide-lg">-комн.</span></label></div>
+                    <div class="checkbox"><label for="field_category_3"><input type="checkbox" id="field_category_3" name="field_category[]" class="field_category" value="8" />3<span class="hide-lg">-комн.</span></label></div>
+                    <div class="checkbox"><label for="field_category_4"><input type="checkbox" id="field_category_4" name="field_category[]" class="field_category" value="9" />4-х комн.</label></div>
+                    <div class="clearfix"></div>
+                </div>
+
+                <div id="field_podselenie_container">
+                    <div class="checkbox"><label for="field_podselenie_da" class="hasTooltip" data-placement="bottom" title="Подразумевается проживание в комнате совместно с другим человеком (койко-место)"><input type="checkbox" id="field_podselenie_da"  name="field_podselenie[]" class="field_podselenie" value="da" />Подселение</label></div>
+                    <div style="display:none;"><input type="checkbox" id="field_podselenie_net"  name="field_podselenie" class="field_podselenie" value="net" checked/></div>
+                </div>
+            </div>
+
+            <div class="search-section">
+                <div class="search-section-title">Цена за месяц (руб.)</div>
+                <div>
+                    <label id="priceInputFromLabel">От: </label>
+                    <input type="text" id="priceInputFrom" name="field_price[from]" placeholder="0" class="inputbox" value="0"/>
+                    <label id="priceInputToLabel">До: </label>
+                    <input type="text" id="priceInputTo" name="field_price[to]" placeholder=" 60000" class="inputbox" value="60000"/>
+
+                    <div style="font-weight: bold; text-align: center; display:none;" id="priceSliderLabel">От <span id="priceSpanFrom"></span> до <span id="priceSpanTo"></span> руб.</div>
+                </div>
+            </div>
+
+            <div class="search-section">
+                <div id="advanced-search-handler" class="search-section-title search-section-handler off" rel="advanced" data-collapsed="1">Расширенный поиск</div>
+
+                <div id="advanced_container" class="collapsable" rel="advanced" style="display:none; padding:10px 0 0 10px;">
+                                        <div class="search-section">
+                        <div class="search-section-title">Город\Район</div>
+
+                        <div class="collapsable">
+                            <select name="field_city" id="field_city">
+                                <option value="0">-- Выберите город --</option>
+                                                                <option id="field_city_1" value="1" >
+                                    Ростов-на-дону                                </option>
+                                                                <option id="field_city_2" value="2" >
+                                    Батайск                                </option>
+                                                                <option id="field_city_3" value="3" >
+                                    Аксай                                </option>
+                                                            </select>
+
+                            <div id="field_raion-container" style="display:none">
+                                                                <div class="checkbox">
+                                    <label for="field_raion_1"><input type="checkbox" name="field_raion[]" id="field_raion_1" value="1" />Железнодорожный р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_2"><input type="checkbox" name="field_raion[]" id="field_raion_2" value="2" />Пролетарский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_3"><input type="checkbox" name="field_raion[]" id="field_raion_3" value="3" />Ленинский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_4"><input type="checkbox" name="field_raion[]" id="field_raion_4" value="4" />Октябрьский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_5"><input type="checkbox" name="field_raion[]" id="field_raion_5" value="5" />Первомайский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_6"><input type="checkbox" name="field_raion[]" id="field_raion_6" value="6" />Советский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_7"><input type="checkbox" name="field_raion[]" id="field_raion_7" value="7" />Кировский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_8"><input type="checkbox" name="field_raion[]" id="field_raion_8" value="8" />Ворошиловский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_9"><input type="checkbox" name="field_raion[]" id="field_raion_9" value="9" />Левенцовский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_10"><input type="checkbox" name="field_raion[]" id="field_raion_10" value="10" />Суворовский р-н</label>
+                                </div>
+                                                                <div class="checkbox">
+                                    <label for="field_raion_1000"><input type="checkbox" name="field_raion[]" id="field_raion_1000" value="1000" />Пригород</label>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+
+                                        <div class="search-section">
+                        <div class="search-section-title">Меблировка</div>
+
+                        <div id="field_mebel_container" class="collapsable">
+                            <div class="checkbox">
+                                <label for="field_mebel_da"><input type="checkbox" class="" id="field_mebel_da" name="field_mebel[]" class="checkbox" value="da" />С мебелью</label>
+                            </div>
+                            <div class="checkbox">
+                                <label for="field_mebel_net"><input type="checkbox" class="" id="field_mebel_net" name="field_mebel[]" class="checkbox" value="net" />Без мебели</label>
+                            </div>
+                            <div class="checkbox">
+                                <label for="field_mebel_chastichno"><input type="checkbox" class="" id="field_mebel_chastichno" name="field_mebel[]" class="checkbox" value="chastichno" />Частично меблированная</label>
+                            </div>
+                            <div class="checkbox">
+                                <label for="field_mebel_neukazano"><input type="checkbox" class="" id="field_mebel_neukazano" name="field_mebel[]" class="checkbox" value="neukazano" />Не указано</label>
+                            </div>
+                        </div>
+                    </div>
+
+                                        <div class="search-section">
+                        <div class="search-section-title">Площадь</div>
+
+                        <div id="field_area_container" class="collapsable">
+                            <label id="areaInputFromLabel">От: </label>
+                            <input type="text" id="areaInputFrom" name="field_area[from]" placeholder="Площадь от" class="inputbox" value="0"/>
+                            <label id="areaInputToLabel">До: </label>
+                            <input type="text" id="areaInputTo" name="field_area[to]" placeholder="Площадь до" class="inputbox" value="200"/>
+
+                            <div style="font-weight: bold; text-align: center; display:none;" id="areaSliderLabel">От <span id="areaSpanFrom"></span> до <span id="areaSpanTo"></span> м²</div>
+                        </div>
+                    </div>
+
+                                        <div class="search-section">
+                        <div class="search-section-title">Этаж</div>
+
+                        <div id="field_floor_container" class="collapsable">
+                            <label id="floorInputFromLabel">От: </label>
+                            <input type="text" id="floorInputFrom" name="field_floor[from]" placeholder="Этаж от" class="inputbox" value="0"/>
+                            <label id="floorInputToLabel">До: </label>
+                            <input type="text" id="floorInputTo" name="field_floor[to]" placeholder="Этаж до" class="inputbox" value="30"/>
+
+                            <div style="font-weight: bold; text-align: center; display:none;" id="floorSliderLabel">От <span id="floorSpanFrom"></span> до <span id="floorSpanTo"></span></div>
+                        </div>
+                    </div>
+
+                    <div class="search-section gallery-search-section">
+                        <div class="checkbox">
+                            <label for="field_gallery"><input type="checkbox" class="" id="field_gallery" name="field_gallery[]" class="checkbox" value="1" />С фотографиями</label>
+                        </div>
+                    </div>
+
+                    <div class="search-section" style="border-bottom: 0;">
+                        <div class="search-section-title">Со словами:</div>
+                        <input type="text" name="sp_search_for" value="" style="max-width: 176px;">
+                    </div>
+                </div>
+            </div>
+
+                        <input type="hidden" name="field_closed[]" value="net" />
+            
+            <input type="hidden" name="task" value="search.search" />
+            <input type="hidden" name="option" value="com_sobipro" />
+            <input type="hidden" name="sid" value="1" />
+            <input type="hidden" name="spsearchphrase" value="all" />
+
+            <div class="button" style="margin-top:10px">
+                <button value="Искать" name="Submit" type="submit" style="width:100%;">Искать</button>
+            </div>
+        </div>
+    </form>
+</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-outline  deepest">
+
+			<div class="h3 module-title"><a href="/otzyvy">Отзывы (495)</a></div>
+<div class="reference">
+    <div class="photo">
+        <img class="lazy" alt="" data-src="https://pp.userapi.com/c604823/v604823889/17731/88SWuoYQYrM.jpg">
+        <noscript><img src="https://pp.userapi.com/c604823/v604823889/17731/88SWuoYQYrM.jpg" alt="" /></noscript>
+    </div>
+    <div class="username">
+        <a href="https://vk.com/id343600889" rel="nofollow" target="_blank">Инна Гусарова</a>
+    </div>
+    <div class="message">Ребята , спасибо. Нашла квартиру благодаря вашему сайту. Хороший проект, не дайте его загубить акулам в лице риелторов и посредников. Удачи всем!!!</div>
+    <div class="date"><a href="/otzyvy#ref374">Размещено 16.07.2017</a></div>
+    <div class="clearfix">&nbsp;</div>
+</div>
+<div class="reference">
+    <div class="photo">
+        <img class="lazy" alt="" data-src="https://pp.userapi.com/c615728/v615728707/324e/yPKaBy13zVo.jpg">
+        <noscript><img src="https://pp.userapi.com/c615728/v615728707/324e/yPKaBy13zVo.jpg" alt="" /></noscript>
+    </div>
+    <div class="username">
+        <a href="https://vk.com/boris_razumovskiy" rel="nofollow" target="_blank">Борис Разумовский</a>
+    </div>
+    <div class="message">Нашёл подходящую квартиру и очень быстро благодаря вашему сайту и проекту в целом! От всей души благодарен всему вашему коллективу! 
+Желаю всем вам процветания, большие прибыли и новые идеи, которые будут улучшать мир!!! СПАСИБО!</div>
+    <div class="date"><a href="/otzyvy#ref359">Размещено 04.05.2017</a></div>
+    <div class="clearfix">&nbsp;</div>
+</div>
+<div class="reference">
+    <div class="photo">
+        <img class="lazy" alt="" data-src="https://pp.userapi.com/c638628/v638628675/1995c/A1IChDy8I6A.jpg">
+        <noscript><img src="https://pp.userapi.com/c638628/v638628675/1995c/A1IChDy8I6A.jpg" alt="" /></noscript>
+    </div>
+    <div class="username">
+        <a href="https://vk.com/ksyndele" rel="nofollow" target="_blank">Ксения Орехова</a>
+    </div>
+    <div class="message">Даже не знаю, что бы мы делали без вашей группы и сайта!! Приехали из другого города по работе, надо было срочно искать жилье, даже через агентство пытались, но нам, к счастью, не понравились их Варианты. А через сайт беспосредника быстро нашли подходящий вариант! Спасибо огромное за ваши старания и труды!!!! Гораздо приятнее иметь дело с людьми без посредников!!!! 5+
+Ваша работа БЕСЦЕННА!!!
+И да, нашли квартиру за пару часов всего!!!</div>
+    <div class="date"><a href="/otzyvy#ref342">Размещено 29.03.2017</a></div>
+    <div class="clearfix">&nbsp;</div>
+</div>
+
+<p style="float: left;"><a href="/otzyvy#vkcomments">Добавить отзыв</a></p>
+<p style="float: right;"><a href="/otzyvy">Все отзывы</a></p>
+
+<div class="clearfix">&nbsp;</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-outline  deepest">
+
+			
+<div style="margin-bottom: 10px;">
+    <div id="vk_like"></div>
+</div>
+<div style="margin-bottom: 10px;">
+   <div id="vk_groups"></div>
+</div>
+<div style="margin-bottom: 10px;">
+    <div id="ok_shareWidget"></div>
+</div>
+<div style="margin-bottom: 10px;">
+    <div id="ok_group_widget"></div>
+</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="bannergroup">
+
+	<div class="banneritem">
+										<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4435122813997736"
+     data-ad-slot="3902558600"
+     data-ad-format="vertical"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+</div></aside>
+                                                                    </div>
+                                <!-- main end -->
+                                                                    <footer id="footer">
+                        
+                        <div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item159"><a href="/sdam/komnaty" class="level1"><span>Комнаты</span></a></li><li class="level1 item160"><a href="/sdam/1-komnatnye" class="level1"><span>1-комнатные</span></a></li><li class="level1 item161"><a href="/sdam/2-komnatnye" class="level1"><span>2-комнатные</span></a></li><li class="level1 item162"><a href="/sdam/3-komnatnye" class="level1"><span>3-комнатные</span></a></li><li class="level1 item163"><a href="/sdam/4-i-bolee-komnatnye" class="level1"><span>4 и более -комнатные</span></a></li><li class="level1 item164"><a href="/sdam/doma" class="level1"><span>Дома</span></a></li></ul>		
+</div>
+<div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item348"><a href="/sdam/zheleznodorozhnyj-rajon" class="level1"><span>Железнодорожный</span></a></li><li class="level1 item349"><a href="/sdam/proletarskij-rajon" class="level1"><span>Пролетарский</span></a></li><li class="level1 item350"><a href="/sdam/leninskij-rajon" class="level1"><span>Ленинский</span></a></li><li class="level1 item351"><a href="/sdam/oktyabrskij-rajon" class="level1"><span>Октябрьский</span></a></li><li class="level1 item352"><a href="/sdam/pervomajskij-rajon" class="level1"><span>Первомайский</span></a></li><li class="level1 item353"><a href="/sdam/sovetskij-rajon" class="level1"><span>Советский</span></a></li><li class="level1 item354"><a href="/sdam/kirovskij-rajon" class="level1"><span>Кировский</span></a></li><li class="level1 item355"><a href="/sdam/voroshilovskij-rajon" class="level1"><span>Ворошиловский</span></a></li><li class="level1 item356"><a href="/sdam/leventsovskij-rajon" class="level1"><span>Левенцовский</span></a></li><li class="level1 item357"><a href="/sdam/suvorovskij-rajon" class="level1"><span>Суворовский</span></a></li><li class="level1 item358"><a href="/sdam/prigorod" class="level1"><span>Пригород</span></a></li></ul>		
+</div>
+<div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item172"><a href="/pravila-i-rekomendatsii" class="level1"><span>Правила и рекомендации</span></a></li><li class="level1 item177"><a href="/otzyvy" class="level1"><span>Отзывы</span></a></li><li class="level1 item122"><a href="/obraztsy-dogovorov" class="level1"><span>Образцы договоров</span></a></li><li class="level1 item232"><a href="/kontakty" class="level1"><span>Контакты</span></a></li></ul>		
+</div>
+                                                    <!-- Yandex.Metrika informer --><a href="https://metrika.yandex.ru/stat/?id=32951504&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/32951504/3_0_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a><!-- /Yandex.Metrika informer -->
+                        
+                        <!--LiveInternet counter--><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;besposrednika?r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"" : ";s"+screen.width+"*"+screen.height+"*" + (screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u"+escape(document.URL) +  ";" +Math.random();</script><!--/LiveInternet-->
+                        <!--LiveInternet logo--><a href="//www.liveinternet.ru/click;besposrednika" target="_blank"><img src="//counter.yadro.ru/logo;besposrednika?45.1" border="0" width="31" height="31" alt="" title="LiveInternet"/></a><!--/LiveInternet-->
+                                            </footer>
+                            </div>
+        </div>
+    </div>
+
+    <div id="vk_api_transport"></div>
+
+    <script>
+function loadCSS(e,t,n){"use strict";function r(){for(var t,i=0;i<d.length;i++)d[i].href&&d[i].href.indexOf(e)>-1&&(t=!0);t?o.media=n||"all":setTimeout(r)}var o=window.document.createElement("link"),i=t||window.document.getElementsByTagName("script")[0],d=window.document.styleSheets;return o.rel="stylesheet",o.href=e,o.media="only x",i.parentNode.insertBefore(o,i),r(),o}
+</script>
+<script>
+(function () {
+    function loadScript(e,t){var a=document.createElement("script");a.type="text/javascript",t&&(a.readyState?a.onreadystatechange=function(){("loaded"==a.readyState||"complete"==a.readyState)&&(a.onreadystatechange=null,t())}:a.onload=function(){t()}),a.src=e,document.getElementsByTagName("head")[0].appendChild(a)}
+
+    document.addEventListener('DOMContentLoaded',function() {
+        //loadScript("//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js", function () {
+        loadScript("/templates/yoo_pace/js/jquery.min.js", function () {
+            jQuery.when(
+		loadScript( "/cache/template/template-76a5d788.js" ),
+                jQuery.Deferred(function( deferred ){
+                    jQuery( deferred.resolve );
+                })
+            ).done(function(){
+                defer$();
+                                jQuery.getScript( "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" );
+                            });
+
+        });
+
+                    loadCSS( tmplPath+'/css/bootstrap-prt.css' );
+            
+    });
+})();
+</script>
+
+
+            <div id="vk_community_messages"></div>
+
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            
+            (function (d, w, c) {
+                (w[c] = w[c] || []).push(function() {
+                    try {
+                        w.yaCounter32951504 = new Ya.Metrika2({
+                            id:32951504,
+                            clickmap:true,
+                            trackLinks:true,
+                            accurateTrackBounce:true,
+                                                        ut:"noindex",
+                            params: window.yaParams||{}
+                        });
+                    } catch(e) { }
+                });
+
+                var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else { f(); }
+            })(document, window, "yandex_metrika_callbacks2");
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/32951504?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+    
+    </body>
+</html>
